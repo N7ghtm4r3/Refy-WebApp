@@ -24,21 +24,6 @@ If you are trying to connect to a backend with self-signed certificates, you nee
 ### Clients
 
 - Mobile
-  - [Android](https://play.google.com/store/apps/details?id=com.tecknobit.neutron)
-  - [Neutron desktop version](https://github.com/N7ghtm4r3/Neutron-Clients/releases/tag/1.0.1)
-  - iOS -> source code available, but cannot distribute due
-    missing [Apple Developer Program license](https://developer.apple.com/programs/)
-  - [Neutron webapp version](https://n7ghtm4r3.github.io/Neutron-Webapp/)
-
-### Backend
-
-- [Backend service "out-of-the-box"](https://github.com/N7ghtm4r3/Neutron/releases/tag/1.0.1)
-
-## Architecture
-
-### Clients
-
-- Mobile
   - [Android](https://play.google.com/store/apps/details?id=com.tecknobit.refy)
   - [Refy desktop version](https://github.com/N7ghtm4r3/Refy-Clients/releases/tag/1.0.1)
   - iOS -> source code available, but cannot distribute due
