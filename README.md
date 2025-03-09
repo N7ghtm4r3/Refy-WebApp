@@ -90,7 +90,7 @@ If you need help using the library or encounter any problems or bugs, please con
 following links:
 
 - Support via [email](mailto:infotecknobitcompany@gmail.com)
-- Support via [GitHub](https://github.com/N7ghtm4r3/Neutron-Webapp/issues/new)
+- Support via [GitHub](https://github.com/N7ghtm4r3/Refy-WebApp/issues/new)
 
 Thank you for your help!
 
