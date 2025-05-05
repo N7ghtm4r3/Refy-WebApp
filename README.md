@@ -1,6 +1,6 @@
 # Refy-WebApp
 
-**v1.0.1**
+**v1.0.2**
 
 This project, based on Java and the Spring Boot framework, is an open source self-hosted references
 collector and custom links generator.
@@ -25,14 +25,14 @@ If you are trying to connect to a backend with self-signed certificates, you nee
 
 - Mobile
   - [Android](https://play.google.com/store/apps/details?id=com.tecknobit.refy)
-  - [Refy desktop version](https://github.com/N7ghtm4r3/Refy-Clients/releases/tag/1.0.1)
+  - [Refy desktop version](https://github.com/N7ghtm4r3/Refy-Clients/releases/tag/1.0.2)
   - iOS -> source code available, but cannot distribute due
     missing [Apple Developer Program license](https://developer.apple.com/programs/)
-  - [Refy webapp version](https://github.com/N7ghtm4r3/Refy-WebApp/releases/tag/1.0.1)
+  - [Refy webapp version](https://github.com/N7ghtm4r3/Refy-WebApp/releases/tag/1.0.2)
 
 ### Backend
 
-- [Backend service "out-of-the-box"](https://github.com/N7ghtm4r3/Refy/releases/tag/1.0.1)
+- [Backend service "out-of-the-box"](https://github.com/N7ghtm4r3/Refy/releases/tag/1.0.2)
 
 ## Usages
 
@@ -67,7 +67,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.tecknobit.refycore:refycore:1.0.1'
+  implementation 'com.tecknobit.refycore:refycore:1.0.2'
 }
 ```
 
@@ -80,7 +80,7 @@ repositories {
 }
 
 dependencies {
-  implementation("com.tecknobit.refycore:refycore:1.0.1")
+  implementation("com.tecknobit.refycore:refycore:1.0.2")
 }
 ```
 
