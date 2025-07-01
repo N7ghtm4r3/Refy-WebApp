@@ -1,6 +1,6 @@
 # Refy-WebApp
 
-**v1.0.2**
+**v1.0.3**
 
 This project, based on Java and the Spring Boot framework, is an open source self-hosted references
 collector and custom links generator.
@@ -25,14 +25,14 @@ If you are trying to connect to a backend with self-signed certificates, you nee
 
 - Mobile
   - [Android](https://play.google.com/store/apps/details?id=com.tecknobit.refy)
-  - [Refy desktop version](https://github.com/N7ghtm4r3/Refy-Clients/releases/tag/1.0.2)
+  - [Refy desktop version](https://github.com/N7ghtm4r3/Refy-Clients/releases/tag/1.0.3)
   - iOS -> source code available, but cannot distribute due
     missing [Apple Developer Program license](https://developer.apple.com/programs/)
-  - [Refy webapp version](https://github.com/N7ghtm4r3/Refy-WebApp/releases/tag/1.0.2)
+  - [Refy webapp version](https://github.com/N7ghtm4r3/Refy-WebApp/releases/tag/1.0.3)
 
 ### Backend
 
-- [Backend service "out-of-the-box"](https://github.com/N7ghtm4r3/Refy/releases/tag/1.0.2)
+- [Backend service "out-of-the-box"](https://github.com/N7ghtm4r3/Refy/releases/tag/1.0.3)
 
 ## Usages
 
@@ -67,7 +67,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.tecknobit.refycore:refycore:1.0.2'
+  implementation 'com.tecknobit.refycore:refycore:1.0.3'
 }
 ```
 
@@ -80,7 +80,7 @@ repositories {
 }
 
 dependencies {
-  implementation("com.tecknobit.refycore:refycore:1.0.2")
+  implementation("com.tecknobit.refycore:refycore:1.0.3")
 }
 ```
 
@@ -101,7 +101,7 @@ Thank you for your help!
 
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.tecknobit.neutron)
+[![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.tecknobit.refy)
 
 ## Donations
 
